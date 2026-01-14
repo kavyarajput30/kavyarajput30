@@ -1,14 +1,20 @@
-👋 Hi there, I’m Kavya Rajput (@kavyarajput30)!
+# Hi, I'm Kavya Rajput 👋
 
-👀 I’m passionate about web development, with a focus on creating dynamic and user-friendly applications.
+Software Developer with a strong focus on building **scalable backend systems** and **performance-driven web applications**.  
+I have hands-on experience designing **production-grade APIs**, implementing **secure authentication and authorization flows**, and working with **data-intensive applications**.
 
-🌱 Currently, I'm diving deep into Next.js 14, exploring its capabilities to build modern and efficient React applications.
+My core expertise lies in **Node.js, Express, and MongoDB**, where I focus on clean architecture, efficient data modeling, and reliability. On the frontend, I work with **React and Next.js** to build responsive, user-centric interfaces and seamlessly integrate them with backend systems.
 
-💼 I'm eager to collaborate on projects using the MERN stack (MongoDB, Express.js, React.js, Node.js). If you have any exciting opportunities, feel free to reach out!
+I’m comfortable owning features end-to-end — from requirement analysis and system design to implementation, debugging, and deployment. I value **clean code, scalability, and long-term maintainability**, and I enjoy solving complex engineering problems in fast-paced environments.
 
-📫 You can contact me via email at rajputkavya2004@gmail.com.
+### 🛠 Tech Stack
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT/Auth, Middleware
+- **Frontend:** React.js, Next.js
+- **Tools & Practices:** Git/GitHub, Clean Architecture, MVC, Docker, Kubernetes, Debugging, Code Reviews
 
-😄 Pronouns: She/Her
+### 🤝 Open to
+- Backend-heavy or full-stack product development
+- Scalable systems & API-driven applications
 
-⚡ Fun fact: I'm an avid traveler and love exploring new cuisines wherever I go!
-
+📫 **Reach me:** rajputkavya2004@gmail.com  
+😄 **Pronouns:** She/Her
